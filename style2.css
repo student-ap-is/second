@@ -1,0 +1,30 @@
+  
+header{
+ background-color: aquamarine;
+}
+section.my-articles{
+ background-color: rgb(100, 111, 111);
+}
+p{
+  color: darkgray;
+}
+
+header p{
+  color: tomato;
+}
+
+li{
+   color: blueviolet;
+}
+
+section.my-articles>h2{
+  color: brown; 
+}
+
+h2+p{
+color: rgb(186, 115, 29);
+}
+
+ul+p{
+ color: rgb(218, 14, 14);
+}

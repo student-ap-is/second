@@ -1,0 +1,33 @@
+/* h1{
+    color: blue;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif; 
+}
+#cr{
+    background-color: black;
+}
+.ck{
+    background-color: aqua;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto:ital,wght@0,100;0,400;1,100&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.c1{
+    background-color: rgb(182, 183, 185);
+}
+.c2{
+    background-color: rgb(182, 183, 185);
+}
+.c3{
+    background-color: rgb(182, 183, 185);
+}
+.k1{
+    color: rgb(9, 187, 128);
+}
+span{
+    background-color: rgb(0, 0, 255);
+}
